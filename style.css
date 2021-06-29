@@ -663,6 +663,15 @@ blockquote {
   border-radius: 8px;
 }
 
+.img-rotate {
+  transition: transform .7s ease-in-out;
+}
+
+.img-rotate:hover {
+  transform: rotate(-360deg);
+  opacity: 0.1;
+}
+
 /*-----------------------------------------------------------
     Carousel
 -------------------------------------------------------------*/
