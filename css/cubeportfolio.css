@@ -622,7 +622,8 @@
   top: 0;
   background-color: rgba(111, 113, 255, 0.9);
   -webkit-transition: opacity .4s;
-  transition: opacity .4s; }
+  transition: opacity .4s; 
+  border-radius: 8px; }
 
 .cbp-caption-zoom .cbp-caption:hover .cbp-caption-activeWrap {
   opacity: 1; }
