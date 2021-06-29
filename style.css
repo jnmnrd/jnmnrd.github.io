@@ -668,7 +668,7 @@ blockquote {
 }
 
 .img-rotate:hover {
-  transform: rotate(-15deg);
+  transform: rotate(-360deg);
   opacity: 0.1;
 }
 
